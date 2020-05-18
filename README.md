@@ -1,12 +1,9 @@
 # Twittter
->  Basic Twitter clone<br>
-
 <br />
 <p align="center">
   
-  <h2 align="center">Twittter</h2>
-
   <p align="center">
+  >  Basic Twitter clone<br>
     <br />
     <a href="https://github.com/dansantander/twittter"><strong>Explore the docs »</strong></a>
     <br />
