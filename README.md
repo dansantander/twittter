@@ -82,8 +82,8 @@ A special thanks for the code reviewers.
 
 👤 **Daniel Santander**
 
-- Github: [@SevlaMare](https://github.com/dansantander)
-- Linkedin: [SevlaMare)](https://www.linkedin.com/in/daniel-santander)
+- Github: [@dansantander](https://github.com/dansantander)
+- Linkedin: [Daniel Santander)](https://www.linkedin.com/in/daniel-santander)
 
 ### License
 
