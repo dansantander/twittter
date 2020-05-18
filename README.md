@@ -1,11 +1,29 @@
 # Twittter
 >  Basic Twitter clone<br>
 
+<br />
+<p align="center">
+  
+  <h2 align="center">Twittter</h2>
+
+  <p align="center">
+    <br />
+    <a href="https://github.com/dansantander/twittter"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    ·
+    <a href="https://github.com/dansantander/tictactoe/twittter">Report Bug</a>
+    ·
+    <a href="https://github.com/dansantander/tictactoe/twittter">Request Feature</a>
+  </p>
+</p>
+
+
 ![screenshot](screenshot.png)
 
 <br>This project was built for creating an authentication system using Rails<br>
 
-## Content
+## Table of Contents
 
 * [Features](#features)
 * [Built With](#built-with)
@@ -83,7 +101,7 @@ A special thanks for the code reviewers.
 👤 **Daniel Santander**
 
 - Github: [@dansantander](https://github.com/dansantander)
-- Linkedin: [Daniel Santander)](https://www.linkedin.com/in/daniel-santander)
+- Linkedin: [Daniel Santander](https://www.linkedin.com/in/daniel-santander)
 
 ### License
 
